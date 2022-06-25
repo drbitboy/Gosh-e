@@ -2,7 +2,7 @@ Gosh-e
 ======
 
     Simple Connected Components Workbench (CCW) PLC
-    application written for my Grandson, Gosh-e (Giorgy)
+    application written for my grandson, Gosh-e (Giorgy)
 
 Description
 ===========
