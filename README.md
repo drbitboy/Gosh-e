@@ -17,7 +17,7 @@ Environment
     Allen-Bradley Micro820 PLC installed in a trainer
     - Cf.
 
-!()[https://www.plccable.com/allen-bradley-micro820-programmable-ccw-plc-trainer-micro800-training-kit/]
+[here](https://www.plccable.com/allen-bradley-micro820-programmable-ccw-plc-trainer-micro800-training-kit/)
 
 Manifest
 ========
