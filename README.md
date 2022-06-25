@@ -15,7 +15,8 @@ Environment
 
     CCW PLC programming software, V13
     Allen-Bradley Micro820 PLC installed in a trainer
-    - Cf. [here](https://www.plccable.com/allen-bradley-micro820-programmable-ccw-plc-trainer-micro800-training-kit/)
+    - Cf. this link:
+[PLCCable.com](https://www.plccable.com/allen-bradley-micro820-programmable-ccw-plc-trainer-micro800-training-kit/)
 
 Manifest
 ========
